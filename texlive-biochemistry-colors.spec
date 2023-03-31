@@ -1,6 +1,6 @@
 Name:		texlive-biochemistry-colors
 Version:	54512
-Release:	1
+Release:	2
 Summary:	Colors used to display amino acids, nucleotides, sugars or atoms in biochemistry
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biochemistry-colors
