@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	Colors used to display amino acids, nucleotides, sugars or atoms in biochemistry
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biochemistry-colors
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biochemistry-colors
 License:	lppl gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biochemistry-colors.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biochemistry-colors.doc.r%{version}.tar.xz
